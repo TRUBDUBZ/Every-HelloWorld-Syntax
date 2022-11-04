@@ -1,6 +1,6 @@
 # Every HelloWorld Syntax
 
-- a repo to store a simple "Hello World" application from every programming language
+- A repository to store a simple "Hello World" application from every programming language
 
 ## Programming Languages:
   
@@ -11,3 +11,5 @@
   - C
   - Swift
   - Bash
+  
+*Feel free to add your favorite scripting language and 'HelloWorld' syntax*
