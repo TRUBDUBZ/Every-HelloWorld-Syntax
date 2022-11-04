@@ -9,5 +9,5 @@
   - Ruby
   - C++
   - C
-  - 
-
+  - Swift
+  - Bash
