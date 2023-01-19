@@ -4,9 +4,9 @@
 
 ## Programming Languages:
   
-  - Python
-  - Javascript
-  - Ruby
+  - (Python)[https://github.com/TRUBDUBZ/Every-HelloWorld-Syntax/blob/main/HelloWorld.py]
+  - (Javascript)[https://github.com/TRUBDUBZ/Every-HelloWorld-Syntax/blob/main/HelloWorld.js]
+  - (Ruby)[https://github.com/TRUBDUBZ/Every-HelloWorld-Syntax/blob/main/HelloWorld.r]
   - C++
   - C
   - Swift
